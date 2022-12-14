@@ -1,4 +1,4 @@
-# fullstack-templates
+# fullstack-template
 a public template library of full-stack projects
 
 ## Dockerised
