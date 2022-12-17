@@ -5,7 +5,7 @@ a public template library of full-stack projects
 
 - https://github.com/surajsharma/postgres-fastapi-vite-react
 - https://github.com/surajsharma/postgres-react-express
-- https://github.com/surajsharma/cliff-ai-sheets-dashboard
+- https://github.com/surajsharma/multi-tenant-google-oauth
 
 
 ## Other
