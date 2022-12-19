@@ -10,5 +10,5 @@ a public template library of full-stack projects
 
 ## Other
 
-- https://github.com/surajsharma/MERN_AUTH_TEMPLATE
+- https://github.com/surajsharma/mern-redux-toolkit
 - https://github.com/surajsharma/2fa
