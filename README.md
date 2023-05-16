@@ -10,5 +10,6 @@ a public template library of full-stack projects
 
 ## Other
 
+- https://github.com/surajsharma/threejs-fullstack-showcase
 - https://github.com/surajsharma/mern-redux-toolkit
 - https://github.com/surajsharma/2fa
